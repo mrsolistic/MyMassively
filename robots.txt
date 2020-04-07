@@ -1,0 +1,7 @@
+User-agent: *
+Sitemap: https://inmet.su/sitemap.xml
+Disallow: /ghost/
+Disallow: /*page
+Disallow: /p/
+Disallow: /author
+Host: https://inmet.su
